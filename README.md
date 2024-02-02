@@ -15,7 +15,7 @@ Tras esta primera toma de contacto con el mundo de la programación continué mi
 ![Express.js](https://user-images.githubusercontent.com/115733488/233002895-991cf431-ceca-41f9-afa3-bd7fb927ca8e.png) 
 ![SQLite](https://user-images.githubusercontent.com/115733488/233002915-512eacd7-2f66-4e07-91d0-6afb4e005cef.png)
 ![MySQL](https://user-images.githubusercontent.com/115733488/233002964-40e22d88-3bed-402c-9003-7fce2f0f1197.png)
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png)
+![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png){width=100px}
 ![Git](https://user-images.githubusercontent.com/115733488/233003206-cdbc3be1-f230-4ced-b868-a371bef27e67.png)
 ![NPM](https://user-images.githubusercontent.com/115733488/233003231-11bfd4c5-6615-40db-85c8-e8015a6878cf.png) 
 ![Postman](https://user-images.githubusercontent.com/115733488/233003251-2fd8d891-7a42-473b-b3e2-d69fac3f6657.png) 

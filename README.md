@@ -5,7 +5,6 @@ Tras esta primera toma de contacto con el mundo de la programación continué mi
 
 ## Habilidades y tecnologías
 
-
 ![HTML](https://user-images.githubusercontent.com/115733488/233001621-a043f89e-205a-44ce-8c7e-fe268d2c00a7.png) 
 ![CSS](https://user-images.githubusercontent.com/115733488/233001666-97ea5d9c-80cc-4d20-a149-112c1ea2ef61.png)
 ![SASS](https://user-images.githubusercontent.com/115733488/233001714-07d1f74f-043c-4018-a108-1701942c7a03.png)
@@ -16,12 +15,12 @@ Tras esta primera toma de contacto con el mundo de la programación continué mi
 ![SQLite](https://user-images.githubusercontent.com/115733488/233002915-512eacd7-2f66-4e07-91d0-6afb4e005cef.png)
 ![MySQL](https://user-images.githubusercontent.com/115733488/233002964-40e22d88-3bed-402c-9003-7fce2f0f1197.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="100"/>
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png){width=100px}
 ![Git](https://user-images.githubusercontent.com/115733488/233003206-cdbc3be1-f230-4ced-b868-a371bef27e67.png)
 ![NPM](https://user-images.githubusercontent.com/115733488/233003231-11bfd4c5-6615-40db-85c8-e8015a6878cf.png) 
 ![Postman](https://user-images.githubusercontent.com/115733488/233003251-2fd8d891-7a42-473b-b3e2-d69fac3f6657.png) 
 ![Visual Studio Code](https://user-images.githubusercontent.com/115733488/233003295-7ebd744d-cd56-4c27-a436-3eb8dfa065de.png)
-![Java](https://user-images.githubusercontent.com/115733488/233003295-7ebd744d-cd56-4c27-a436-3eb8dfa065de.png)
+![Java](https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png)
+![Angular](https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png)
 
 ## Metodologías
 

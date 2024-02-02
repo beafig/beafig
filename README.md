@@ -3,7 +3,7 @@
 Soy **Bea**, una profesora convertida en programadora web Junior apasionada por la tecnología y el desarrollo de software. Me gradué en el bootcamp de 14 semanas de Adalab de programación web donde aprendí varios lenguajes y herramientas para construir aplicaciones web. Me encanta aprender sobre las últimas tecnologías y herramientas de desarrollo para seguir mejorando como programadora.
 Tras esta primera toma de contacto con el mundo de la programación continué mi formación con el bootcamp de iniciación a la progración de Campus Dual - Imatia, donde además de consolidar mis conocimientos adquiridos anteriormente he aprendido las bases de Java, Spring y Angular.
 
-## Habilidades
+## Habilidades y tecnologías
 
 ![image](https://user-images.githubusercontent.com/115733488/233001621-a043f89e-205a-44ce-8c7e-fe268d2c00a7.png) ![image](https://user-images.githubusercontent.com/115733488/233001666-97ea5d9c-80cc-4d20-a149-112c1ea2ef61.png) ![image](https://user-images.githubusercontent.com/115733488/233001714-07d1f74f-043c-4018-a108-1701942c7a03.png) ![image](https://user-images.githubusercontent.com/115733488/233002106-2fb194a0-39dc-4af5-b351-664508248876.png)
 ![image](https://user-images.githubusercontent.com/115733488/233001748-7196491e-9831-4e09-ac53-eb220f16e97a.png) ![image](https://user-images.githubusercontent.com/115733488/233001811-99623674-9304-4e74-b543-22df2422249d.png)

@@ -1,6 +1,7 @@
 # <title> Hello World </title>
 
 Soy **Bea**, una profesora convertida en programadora web Junior apasionada por la tecnología y el desarrollo de software. Me gradué en el bootcamp de 14 semanas de Adalab de programación web donde aprendí varios lenguajes y herramientas para construir aplicaciones web. Me encanta aprender sobre las últimas tecnologías y herramientas de desarrollo para seguir mejorando como programadora.
+
 Tras esta primera toma de contacto con el mundo de la programación continué mi formación con el bootcamp de iniciación a la progración de Campus Dual - Imatia, donde además de consolidar mis conocimientos adquiridos anteriormente he aprendido las bases de Java, Spring y Angular.
 
 ## Habilidades y tecnologías

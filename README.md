@@ -4,16 +4,16 @@ Soy **Bea**, una profesora convertida en programadora web Junior apasionada por 
 
 ## Habilidades
 
-- <img src="https://i.postimg.cc/2y7LB9Yy/HTML.png" width="30"/> HTML
-- <img src="https://i.postimg.cc/zv25MTSp/CSS.png" width="30"/> CSS
-- <img src="https://i.postimg.cc/9QcxnzQw/SASS.png" width="30"/> SASS
-- <img src="https://i.postimg.cc/7ZNLqJV1/Javascript.png" width="30"/> JavaScript
-- <img src="https://i.postimg.cc/j2gSypD8/React.png" width="30"/> React
-- <img src="https://i.postimg.cc/VLJKnXTg/nodejs.png" width="30"/> Node.js
-- <img src="https://i.postimg.cc/jj7cmKK7/Express-JS-log.png" width="30"/> Express.js
-- <img src="https://i.postimg.cc/767zMM0v/Mongo.png" width="30"/> MongoDB
-- <img src="https://i.postimg.cc/7ZM026xX/MySQL.png" width="30"/> MySQL
-- <img src="https://i.postimg.cc/LXFYXFPL/git.png" width="30"/> Git
+- <img src="https://i.postimg.cc/2y7LB9Yy/HTML.png" width="50"/> HTML
+- <img src="https://i.postimg.cc/zv25MTSp/CSS.png" width="50"/> CSS
+- <img src="https://i.postimg.cc/9QcxnzQw/SASS.png" width="50"/> SASS
+- <img src="https://i.postimg.cc/7ZNLqJV1/Javascript.png" width="50"/> JavaScript
+- <img src="https://i.postimg.cc/j2gSypD8/React.png" width="50"/> React
+- <img src="https://i.postimg.cc/VLJKnXTg/nodejs.png" width="50"/> Node.js
+- <img src="https://i.postimg.cc/jj7cmKK7/Express-JS-log.png" width="50"/> Express.js
+- <img src="https://i.postimg.cc/767zMM0v/Mongo.png" width="50"/> MongoDB
+- <img src="https://i.postimg.cc/7ZM026xX/MySQL.png" width="50"/> MySQL
+- <img src="https://i.postimg.cc/LXFYXFPL/git.png" width="50"/> Git
 
 ## Metodologías
 
